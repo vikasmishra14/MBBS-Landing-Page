@@ -33,8 +33,8 @@ This is a responsive landing page for "Study MBBS Abroad," featuring country lis
 
 Clone the Repository:
 
-git clone https://github.com/your-username/study-mbbs-abroad.git
-cd study-mbbs-abroad
+git clone https://github.com/vikasmishra14/MBBS-Landing-Page.git
+cd MBBS-Landing-Page
 
 Open index.html in a browser:
 
